@@ -11,5 +11,5 @@ Scraping data sekolah seluruh Indonesia dari referensi.data.kemdikbud.go.id berd
 Download Python IDE : Pycharm Community - https://www.jetbrains.com/pycharm/download/
 
 ## Referensi
-https://github.com/suryavip/daftar-sekolah-indonesia <br>
-https://github.com/egin10/dapodik
+- https://github.com/suryavip/daftar-sekolah-indonesia <br>
+- https://github.com/egin10/dapodik
